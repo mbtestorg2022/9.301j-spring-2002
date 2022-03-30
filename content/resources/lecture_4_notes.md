@@ -5,6 +5,7 @@ description: Lecture notes on experimental approaches to determine the strength 
   (LTD), spike timing dependent plasticity, and long-term potentiation (LTP).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-301j-neural-plasticity-in-learning-and-development-spring-2002/74519c6ef77bf8b0b9360e3fecd0ee26_lecture_4_Notes.pdf
 file_type: application/pdf
+parent_uid: 6664e3f8-e2d9-49c8-0bb4-a4bfb327bf75
 resourcetype: Document
 title: 'Lecture 4: Potentiation of Synaptic Transmission'
 uid: 74519c6e-f77b-f8b0-b936-0e3fecd0ee26
